@@ -1,0 +1,14 @@
+@media only screen and (max-width:1600px){
+    .user-table .table{
+    min-width: 1400px;
+}
+.custom-width{
+	padding: 10px;
+}
+.custom-width-inner .media {
+    padding: 20px 10px;
+    }
+    #grid-view .custom-width {
+    padding:10px;
+}
+}
